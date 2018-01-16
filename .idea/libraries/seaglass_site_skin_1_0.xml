@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="seaglass-site-skin-1.0">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/res/seaglass-site-skin-1.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
