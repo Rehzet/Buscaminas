@@ -45,7 +45,7 @@ public class Casilla extends JButton implements MouseListener{
     @Override
     public void mousePressed(MouseEvent e) {
 
-        if(!buscaminas.isFinPartida()) {    // Funciona si la partida no se haya acabado.
+        if(!buscaminas.isFinPartida()) {    // Funciona si la partida no se ha acabado.
 
             switch (e.getButton()) {
 
